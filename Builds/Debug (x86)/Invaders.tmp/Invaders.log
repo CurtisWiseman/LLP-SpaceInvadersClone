@@ -1,0 +1,65 @@
+﻿  EnemyManager.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  main.cpp
+  Game.cpp
+  Invaders.vcxproj -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Projects\..\Builds\Debug (x86)\Invaders.exe
+  Invaders.vcxproj -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Projects\..\Builds\Debug (x86)\Invaders.pdb (Full PDB)
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Fonts\Comic.ttf -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Fonts\Comic.ttf
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Fonts\DroidSansMono.ttf -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Fonts\DroidSansMono.ttf
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Fonts\Headline.TTF -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Fonts\Headline.TTF
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Fonts\Monkey.ttf -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Fonts\Monkey.ttf
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Sounds\explosion.wav -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Sounds\explosion.wav
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Sounds\fastinvader1.wav -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Sounds\fastinvader1.wav
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Sounds\fastinvader2.wav -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Sounds\fastinvader2.wav
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Sounds\fastinvader3.wav -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Sounds\fastinvader3.wav
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Sounds\fastinvader4.wav -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Sounds\fastinvader4.wav
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Sounds\invaderkilled.wav -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Sounds\invaderkilled.wav
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Sounds\shoot.wav -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Sounds\shoot.wav
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Sounds\spaceinvaders1.mpeg -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Sounds\spaceinvaders1.mpeg
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Sounds\ufo_highpitch.wav -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Sounds\ufo_highpitch.wav
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Sounds\ufo_highpitch_quiet.wav -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Sounds\ufo_highpitch_quiet.wav
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Sounds\ufo_lowpitch.wav -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Sounds\ufo_lowpitch.wav
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\AlienA1.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\AlienA1.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\AlienA2.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\AlienA2.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\AlienB1.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\AlienB1.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\AlienB2.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\AlienB2.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\AlienC1.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\AlienC1.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\AlienC2.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\AlienC2.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\AlienUFO.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\AlienUFO.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\Arcade - Space Invaders - Space Invaders.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\Arcade - Space Invaders - Space Invaders.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\Blockade.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\Blockade.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\Blockade0-1.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\Blockade0-1.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\Blockade0-2.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\Blockade0-2.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\Blockade0-3.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\Blockade0-3.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\Blockade1-1.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\Blockade1-1.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\Blockade1-2.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\Blockade1-2.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\Blockade1-3.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\Blockade1-3.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\Blockade2-1.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\Blockade2-1.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\Blockade2-2.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\Blockade2-2.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\Blockade2-3.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\Blockade2-3.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\Blockade3-1.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\Blockade3-1.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\Blockade3-2.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\Blockade3-2.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\Blockade3-3.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\Blockade3-3.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\Blockade4-1.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\Blockade4-1.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\Blockade4-2.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\Blockade4-2.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\Blockade4-3.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\Blockade4-3.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\Blockade5-1.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\Blockade5-1.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\Blockade5-2.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\Blockade5-2.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\Blockade5-3.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\Blockade5-3.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\BulletE.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\BulletE.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\BulletL.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\BulletL.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\BulletP.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\BulletP.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\BulletR.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\BulletR.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\Explosion1.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\Explosion1.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\Explosion2.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\Explosion2.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\GameOverScreen.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\GameOverScreen.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\Invader.jpg -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\Invader.jpg
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\PauseScreen.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\PauseScreen.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\Player.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\Player.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\Pop1.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\Pop1.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\Pop2.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\Pop2.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\Space_invaders_logo.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\Space_invaders_logo.png
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\Thumbs.db -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\Thumbs.db
+  C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Resources\Textures\TitleScreen.png -> C:\Users\Chip\Desktop\Uni Work\LLPG\SpaceInvadersClone\Builds\Debug (x86)\Resources\Textures\TitleScreen.png
+  57 File(s) copied
